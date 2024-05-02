@@ -1,2 +1,2 @@
 # game
- a javascript game
+ A javascript game
